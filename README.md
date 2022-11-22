@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##I'm an economist, currently a MSc candidate at [UFRJ](https://www.ie.ufrj.br/).
+## I'm an economist, currently a MSc candidate at [UFRJ](https://www.ie.ufrj.br/).
 
 - 🌱 I’m currently learning R language
 
