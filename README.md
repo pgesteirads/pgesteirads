@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning R language
 
-- 📫 How to reach me: Send me an [email](pedro.souza@ppge.ie.ufrj)!
+- 📫 How to reach me: Send me an email! (pedro.souza@ppge.ie.ufrj)
 
 - 😄 Pronouns: He/Him
